@@ -1,0 +1,7 @@
+{
+  "name": "BrickManager Pro",
+  "description": "Sistema completo de gestão para lojas de usados (Bricks), móveis e eletrônicos, com controle de estoque, vendas e assistente inteligente Gemini para precificação e descrições.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
